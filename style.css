@@ -53,4 +53,11 @@ h3{
 div {
     padding: 25px 50px 75px 100px;
   }
-  
+
+  footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: white;
+  }
+/* this the end of my css portfolio */
